@@ -1,0 +1,5 @@
+dir_pth: ./exp/12_5_Transformer_4
+days: 158
+period: 1
+model: Transformer
+loss_weight: 4

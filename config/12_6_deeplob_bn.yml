@@ -1,0 +1,9 @@
+# add initialization
+# modify loss weight
+# DeepLOB with LSTM
+
+dir_pth: ./exp/12_6_deeplob_bn
+days: 158
+period: 1
+model: deeplob
+loss_weight: 2

@@ -1,0 +1,7 @@
+# add initialization
+
+dir_pth: ./exp/12_6_Transformer
+days: 158
+period: 1
+model: Transformer
+loss_weight: 2

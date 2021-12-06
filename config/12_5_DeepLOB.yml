@@ -1,0 +1,5 @@
+dir_pth: ./exp/12_5_DeepLOB
+days: 158
+period: 1
+model: DeepLOB
+loss_weight: 8

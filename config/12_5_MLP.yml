@@ -1,0 +1,5 @@
+dir_pth: ./exp/12_5_MLP
+days: 158
+period: 1
+model: MLP
+loss_weight: 4

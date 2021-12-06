@@ -1,0 +1,8 @@
+# add initialization
+# modify loss weight
+
+dir_pth: ./exp/12_6_MLP
+days: 158
+period: 1
+model: MLP
+loss_weight: 2
